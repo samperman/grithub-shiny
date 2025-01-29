@@ -32,7 +32,7 @@
         "Repository": "RSPM",
         "Date/Publication": "2021-08-19 14:00:05 UTC",
         "Encoding": "UTF-8",
-        "Built": "R 4.4.0; ; 2024-08-22 23:00:44 UTC; unix"
+        "Built": "R 4.4.0; ; 2024-05-30 00:28:53 UTC; unix"
       }
     },
     "Rcpp": {
@@ -81,7 +81,7 @@
         "Repository": "RSPM",
         "Date/Publication": "2015-07-28 08:03:37",
         "Encoding": "UTF-8",
-        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-22 23:01:24 UTC; unix"
+        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-04-25 19:46:00 UTC; unix"
       }
     },
     "bslib": {
@@ -114,7 +114,7 @@
         "Maintainer": "Carson Sievert <carson@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-07-29 19:20:02 UTC",
-        "Built": "R 4.4.0; ; 2024-08-22 23:23:31 UTC; unix"
+        "Built": "R 4.4.0; ; 2024-07-30 04:07:18 UTC; unix"
       }
     },
     "cachem": {
@@ -141,7 +141,7 @@
         "Maintainer": "Winston Chang <winston@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-05-16 09:50:11 UTC",
-        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-22 23:18:10 UTC; unix"
+        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-05-17 04:03:30 UTC; unix"
       }
     },
     "cli": {
@@ -169,7 +169,7 @@
         "Maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
         "Repository": "RSPM",
         "Date/Publication": "2024-06-21 21:00:07 UTC",
-        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-22 23:03:45 UTC; unix"
+        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-06-22 04:08:24 UTC; unix"
       }
     },
     "commonmark": {
@@ -222,7 +222,7 @@
         "Maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
         "Repository": "RSPM",
         "Date/Publication": "2024-06-20 13:00:02 UTC",
-        "Built": "R 4.4.0; ; 2024-08-22 23:00:51 UTC; unix"
+        "Built": "R 4.4.0; ; 2024-06-21 04:03:40 UTC; unix"
       }
     },
     "digest": {
@@ -249,7 +249,7 @@
         "Maintainer": "Dirk Eddelbuettel <edd@debian.org>",
         "Repository": "RSPM",
         "Date/Publication": "2024-08-19 14:10:07 UTC",
-        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-22 23:12:56 UTC; unix"
+        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-20 04:05:40 UTC; unix"
       }
     },
     "fastmap": {
@@ -273,7 +273,7 @@
         "Maintainer": "Winston Chang <winston@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-05-15 09:00:07 UTC",
-        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-22 23:00:39 UTC; unix"
+        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-05-16 04:05:50 UTC; unix"
       }
     },
     "fontawesome": {
@@ -369,7 +369,7 @@
       }
     },
     "grithub": {
-      "Source": "github",
+      "Source": "bitbucket",
       "Repository": null,
       "description": {
         "Package": "grithub",
@@ -381,19 +381,15 @@
         "Description": "Doesn't do much.\n    You can install it and try it out.",
         "License": "None",
         "Encoding": "UTF-8",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
+        "RemoteType": "bitbucket",
+        "RemoteHost": "api.bitbucket.org/2.0",
         "RemoteRepo": "grithub",
-        "RemoteUsername": "samp-rstudio",
+        "RemoteUsername": "samperman",
         "RemoteRef": "HEAD",
-        "RemoteSha": "d7082834a27f5501ebd1f87fffc99b71c83a7cf0",
-        "GithubRepo": "grithub",
-        "GithubUsername": "samp-rstudio",
-        "GithubRef": "HEAD",
-        "GithubSHA1": "d7082834a27f5501ebd1f87fffc99b71c83a7cf0",
+        "RemoteSha": "00771a515bd416100c2d99710ae9015159a43c5c",
         "NeedsCompilation": "no",
-        "Packaged": "2025-01-24 22:12:38 UTC; r10048",
-        "Built": "R 4.4.2; ; 2025-01-24 22:12:39 UTC; unix"
+        "Packaged": "2025-01-29 21:13:03 UTC; r253760",
+        "Built": "R 4.4.2; ; 2025-01-29 21:13:03 UTC; unix"
       }
     },
     "htmltools": {
@@ -424,7 +420,7 @@
         "Maintainer": "Carson Sievert <carson@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-04-04 05:03:00 UTC",
-        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-22 23:13:13 UTC; unix"
+        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-04-25 19:48:09 UTC; unix"
       }
     },
     "httpuv": {
@@ -478,7 +474,7 @@
         "Maintainer": "Carson Sievert <carson@rstudio.com>",
         "Repository": "RSPM",
         "Date/Publication": "2021-04-26 17:10:02 UTC",
-        "Built": "R 4.4.0; ; 2025-01-13 11:23:43 UTC; unix"
+        "Built": "R 4.4.0; ; 2024-08-22 23:14:19 UTC; unix"
       }
     },
     "jsonlite": {
@@ -561,7 +557,7 @@
         "Maintainer": "Lionel Henry <lionel@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2023-11-07 10:10:10 UTC",
-        "Built": "R 4.4.0; ; 2024-08-22 23:05:30 UTC; unix"
+        "Built": "R 4.4.0; ; 2024-04-25 19:44:44 UTC; unix"
       }
     },
     "magrittr": {
@@ -590,7 +586,7 @@
         "Maintainer": "Lionel Henry <lionel@rstudio.com>",
         "Repository": "RSPM",
         "Date/Publication": "2022-03-30 07:30:09 UTC",
-        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-22 23:08:30 UTC; unix"
+        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-04-25 19:41:06 UTC; unix"
       }
     },
     "memoise": {
@@ -615,7 +611,7 @@
         "Maintainer": "Winston Chang <winston@rstudio.com>",
         "Repository": "RSPM",
         "Date/Publication": "2021-11-26 16:11:10 UTC",
-        "Built": "R 4.4.0; ; 2024-08-22 23:18:19 UTC; unix"
+        "Built": "R 4.4.0; ; 2024-04-25 19:47:52 UTC; unix"
       }
     },
     "mime": {
@@ -640,7 +636,7 @@
         "Maintainer": "Yihui Xie <xie@yihui.name>",
         "Repository": "RSPM",
         "Date/Publication": "2021-09-28 05:00:05 UTC",
-        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-22 23:02:16 UTC; unix"
+        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-04-25 19:43:50 UTC; unix"
       }
     },
     "promises": {
@@ -698,7 +694,7 @@
         "Maintainer": "Hadley Wickham <hadley@rstudio.com>",
         "Repository": "RSPM",
         "Date/Publication": "2021-01-31 05:40:02 UTC",
-        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-22 23:00:41 UTC; unix"
+        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-04-25 19:46:19 UTC; unix"
       }
     },
     "rlang": {
@@ -758,7 +754,7 @@
         "Maintainer": "Carson Sievert <carson@rstudio.com>",
         "Repository": "RSPM",
         "Date/Publication": "2024-03-15 22:30:02 UTC",
-        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2025-01-13 11:25:30 UTC; unix"
+        "Built": "R 4.4.0; x86_64-pc-linux-gnu; 2024-08-22 23:13:38 UTC; unix"
       }
     },
     "shiny": {
@@ -875,7 +871,7 @@
   },
   "files": {
     "app.R": {
-      "checksum": "f7b2fe1bef640ccfe4b8f8ea9d9c727a"
+      "checksum": "9201e340d058ed675aa68665f85b4024"
     }
   },
   "users": null
