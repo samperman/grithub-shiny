@@ -369,7 +369,7 @@
       }
     },
     "grithub": {
-      "Source": "github",
+      "Source": "Git",
       "Repository": null,
       "description": {
         "Package": "grithub",
@@ -381,19 +381,12 @@
         "Description": "Doesn't do much.\n    You can install it and try it out.",
         "License": "None",
         "Encoding": "UTF-8",
-        "RemoteType": "github",
-        "RemoteHost": "api.github.com",
-        "RemoteRepo": "grithub",
-        "RemoteUsername": "samp-rstudio",
-        "RemoteRef": "HEAD",
+        "RemoteType": "xgit",
+        "RemoteUrl": "https://github.com/samp-rstudio/grithub",
         "RemoteSha": "d7082834a27f5501ebd1f87fffc99b71c83a7cf0",
-        "GithubRepo": "grithub",
-        "GithubUsername": "samp-rstudio",
-        "GithubRef": "HEAD",
-        "GithubSHA1": "d7082834a27f5501ebd1f87fffc99b71c83a7cf0",
         "NeedsCompilation": "no",
-        "Packaged": "2025-01-24 22:12:38 UTC; r10048",
-        "Built": "R 4.4.2; ; 2025-01-24 22:12:39 UTC; unix"
+        "Packaged": "2025-01-24 21:52:21 UTC; r10048",
+        "Built": "R 4.4.2; ; 2025-01-24 21:52:22 UTC; unix"
       }
     },
     "htmltools": {
