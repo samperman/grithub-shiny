@@ -14,7 +14,7 @@ library(grithub)
 ui <- fluidPage(
 
     # Application title
-    titlePanel(hello()),
+    titlePanel(paste("Grithub:", hello())),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
